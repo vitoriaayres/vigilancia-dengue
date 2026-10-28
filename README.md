@@ -58,9 +58,3 @@ python main.py 2927408 --diagrama
 python main.py 2927408 --ano 2025 --excluir-anos 2024
 ```
 
-## Roteiro
-
-- [x] Parte 1: dados, canal endêmico e grafo determinístico
-- [ ] Parte 2: agente analista com ferramentas (vizinhos espaciais, clima e comparação histórica)
-- [ ] Parte 3: redator do boletim, revisão humana com `interrupt` e persistência em SQLite
-- [ ] Parte 4: vários municípios em paralelo com `Send`, backtest e avaliação
